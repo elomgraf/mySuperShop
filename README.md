@@ -1,2 +1,2 @@
 # mySuperShop
-ecommerce website with angular node.js and mysql
+ecommerce website with angular fire base
